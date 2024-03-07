@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useId } from "react";
 import { Formik, Form, Field } from "formik";
 import * as Yup from "yup";
@@ -17,5 +18,10 @@ function ContactForm() {
     </Formik>
   );
 }
+=======
+import { Formik, Form, Field } from "formik";
+
+function ContactForm() {}
+>>>>>>> parent of ce60f92 (Delete src/Components directory)
 
 export default ContactForm;
