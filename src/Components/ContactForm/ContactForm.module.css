@@ -16,3 +16,7 @@
   margin-right: auto;
   border: none;
 }
+label + span {
+  color: rgb(191, 1, 1);
+  margin-left: 10px;
+}
